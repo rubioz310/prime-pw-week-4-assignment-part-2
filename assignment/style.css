@@ -1,8 +1,17 @@
 .siteHeader{
   background-color: RebeccaPurple;
+  color: CornflowerBlue;
+  text-align: center;
 }
 
 .info{
   background-color: CornflowerBlue;
-  color: white;
+  color: BlanchedAlmond;
+  text-align: center;
+}
+
+.transportDescription{
+  background-color: BlanchedAlmond;
+  color: RebeccaPurple;
+  text-align: center;
 }
