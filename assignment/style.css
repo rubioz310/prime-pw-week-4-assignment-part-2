@@ -1,15 +1,40 @@
+body{
+  background-color: lightGrey;
+}
 .siteHeader{
   background-color: RebeccaPurple;
   color: CornflowerBlue;
   text-align: center;
+  display: block;
+  margin: auto;
+  width: 800px;
+  padding: 4px 0px;
+  border: 2px solid black;
+  border-radius: 20px;
 }
 
 .info{
+  background-color: Coral;
+  display: block;
+  margin: auto;
+  width: 800px;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-top: -1px;
+}
+.name{
   background-color: CornflowerBlue;
   color: BlanchedAlmond;
   text-align: center;
-}
 
+}
+.transport{
+  width: 600px;
+  display: block;
+  margin: auto;
+  border: 5px solid black;
+  border-radius: 20px;
+}
 .transportDescription{
   background-color: BlanchedAlmond;
   color: RebeccaPurple;
